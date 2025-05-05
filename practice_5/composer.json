@@ -1,0 +1,17 @@
+{
+    "name": "mycomp/practice_5",
+    "autoload": {
+        "psr-4": {
+            "Mycomp\\Practice5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem",
+            "email": "a.a.hrytsenko@student.khai.edu"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^7.2"
+    }
+}
